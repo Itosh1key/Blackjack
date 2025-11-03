@@ -19,7 +19,9 @@ This is a simplified version of blackjack. We won't keep track of the specific c
   
 **COMMANDS**
 
-Enter 'h' to hit or 's' to stand.
+Enter:
+- h - to hit
+- s - to stand
 
 **EXAMPLE OUTPUT**
 ```
