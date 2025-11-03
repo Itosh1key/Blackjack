@@ -17,6 +17,10 @@ This is a simplified version of blackjack. We won't keep track of the specific c
 - If the dealer goes over a score of 21, they bust and the player wins immediately.
 - Otherwise, if the player has a higher score than the dealer, the player wins. Otherwise, the player loses (ties are considered as dealer wins for simplicity).
   
+**COMMANDS**
+
+Enter 'h' to hit or 's' to stand.
+
 **EXAMPLE OUTPUT**
 ```
 Blackjack v1.0.0
@@ -31,6 +35,3 @@ The dealer flips a KC.  They now have: 12
 The dealer flips a 5H.  They now have: 17
 You win!
 ```
-**COMMANDS**
-
-Enter 'h' to hit or 's' to stand.
